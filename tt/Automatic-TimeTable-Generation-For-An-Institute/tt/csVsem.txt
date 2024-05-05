@@ -1,0 +1,12 @@
+Day                          8:30-9:25	                         9:30-10:25	                        10:35-11:30	                        11:35-12:30	                          2:00-3:25	                          3:30-4:55	                          5:00-6:25	                          6:30-7:55	
+
+Monday                          .........	                          .........	                          .........	                Machine_learning,21	                          .........	                          .........	              Elementary_algebra,21	                          .........	
+
+Tuesday                Machine_learning,21	                          .........	                          .........	                          .........	         Computer_architecture,lab6	                          .........	                          .........	Database_information_system_lab,lab6	
+
+Wednesday                   Graph_theory,215	                          .........	                          .........	                          .........	                          .........	                          .........	                          .........	                          .........	
+
+Thursday                          .........	                Machine_learning,21	                          .........	                          .........	                          .........	                          .........	              Elementary_algebra,21	                          .........	
+
+Friday                   Graph_theory,215	                          .........	                          .........	                          .........	         Computer_architecture,lab6	                          .........	                          .........	Database_information_system_lab,lab6	
+

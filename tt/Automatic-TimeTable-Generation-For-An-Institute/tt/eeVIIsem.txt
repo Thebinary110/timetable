@@ -1,0 +1,12 @@
+Day                          8:30-9:25	                         9:30-10:25	                        10:35-11:30	                        11:35-12:30	                          2:00-3:25	                          3:30-4:55	                          5:00-6:25	                          6:30-7:55	
+
+Monday                          .........	          Wireless_communication,21	                    VLSI_Design,210	                Machine_learning,21	Accounting_Financial_management,lab4	                          .........	                          .........	    Astrophysics_for_engineers,lab4	
+
+Tuesday                Machine_learning,21	                          .........	          Wireless_communication,21	                    VLSI_Design,210	                          .........	                          .........	                          .........	                          .........	
+
+Wednesday                          .........	                          .........	                          .........	                          .........	                          .........	                          .........	                          .........	                          .........	
+
+Thursday                    VLSI_Design,210	                Machine_learning,21	                          .........	          Wireless_communication,21	Accounting_Financial_management,lab4	                          .........	                          .........	    Astrophysics_for_engineers,lab4	
+
+Friday                          .........	                          .........	                          .........	                          .........	                          .........	                          .........	                          .........	                          .........	
+
